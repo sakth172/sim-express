@@ -1,0 +1,7 @@
+{
+  "name": "SIMExpress - Doorstep SIM Delivery",
+  "description": "A premium doorstep SIM card ordering platform with AI-powered assistance for choosing brands and plans.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
